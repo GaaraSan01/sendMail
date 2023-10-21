@@ -1,4 +1,8 @@
-# sendform
+# sendform - Utilizando a Resend
+
+<p>
+  Neste mini projeto utilizei a api de envios de email Resend junto ao run time JavaScript Bun.
+</p>
 
 To install dependencies:
 
